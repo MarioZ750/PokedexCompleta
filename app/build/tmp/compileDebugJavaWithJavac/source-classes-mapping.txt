@@ -1,0 +1,10 @@
+com/example/pokedexcompleta/BuildConfig.java
+ com.example.pokedexcompleta.BuildConfig
+com/example/pokedexcompleta/Pokemon.java
+ com.example.pokedexcompleta.Pokemon
+com/example/pokedexcompleta/MainActivity.java
+ com.example.pokedexcompleta.MainActivity
+ com.example.pokedexcompleta.MainActivity$1
+ com.example.pokedexcompleta.MainActivity$1$1
+com/example/pokedexcompleta/CustomAdapter.java
+ com.example.pokedexcompleta.CustomAdapter
